@@ -1,0 +1,1 @@
+const openWeatherKey = "YOUR Api key from OpenWeather here..."
