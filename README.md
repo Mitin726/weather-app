@@ -7,9 +7,13 @@
 
 A simple and clean weather application built with **HTML**, **CSS**, and **JavaScript** that lets you search for any city and get the current weather conditions, including temperature, humidity, wind speed, and a weather icon.
 
-The background features the beautiful city of **Cali, Colombia**. 🇨🇴
+The background features the beautiful city of **Cali, Colombia** — my gorgeous hometown. 🇨🇴
 
-## How to Run
+## ⚠️ Note about the GitHub Pages Deploy
+
+The live deployment on GitHub Pages **will not be able to search for cities** because the `config.js` file containing the OpenWeather API key is not included in the repository for security reasons. To fully experience the app, please follow the instructions below to run it locally.
+
+## How to Run Locally
 
 1. **Get an API Key**
    - Go to [OpenWeatherMap](https://openweathermap.org/api) and sign up for a free account.
