@@ -1,5 +1,5 @@
 # Weather App 🌤️
-
+![Status](https://img.shields.io/badge/Status-Completed-success)
 <!-- Add your banner image below -->
 ![Banner](project_banner.png)
 
